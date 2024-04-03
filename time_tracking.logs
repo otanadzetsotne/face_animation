@@ -10,3 +10,19 @@
 2024-04-03 13:27:51 time_tracker INFO     AdaSR-TalkingHead - setting up the environment, fixing repository and environment bugs, porting the project to the M1 processor, testing work
 2024-04-03 13:36:54 time_tracker INFO     docs created for AdaSR-TalkingHead
 2024-04-03 13:36:57 time_tracker INFO     stop
+2024-04-03 15:04:22 time_tracker INFO     Starting time_tracker
+2024-04-03 15:15:54 time_tracker INFO     searching for a solution to the lack of "decord" python library on apple silicon
+2024-04-03 15:39:05 time_tracker INFO     xformers requirement fixed
+2024-04-03 15:40:06 time_tracker INFO     stop
+2024-04-03 17:30:01 time_tracker INFO     Starting time_tracker
+2024-04-03 18:13:50 time_tracker INFO     weights downloading script
+2024-04-03 18:31:30 time_tracker INFO     waited for models to load; learned how to run project
+2024-04-03 18:31:32 time_tracker INFO     stop
+2024-04-03 18:26:07 time_tracker INFO     Starting time_tracker
+2024-04-03 18:46:32 time_tracker INFO     found out the size of the required models for AniPortrait
+2024-04-03 18:46:34 time_tracker INFO     stop
+2024-04-04 01:22:10 time_tracker INFO     Starting time_tracker
+2024-04-04 02:08:51 time_tracker INFO     modified the script for loading weights so that it can be run again, without waiting for loading of already loaded models
+2024-04-04 02:09:13 time_tracker INFO     models downloaded for AniPortrait
+2024-04-04 02:09:50 time_tracker INFO     setup documentation for AniPortrait
+2024-04-04 02:20:29 time_tracker INFO     improved the model loading script to load missing repository files
