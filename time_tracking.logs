@@ -26,3 +26,5 @@
 2024-04-04 02:09:13 time_tracker INFO     models downloaded for AniPortrait
 2024-04-04 02:09:50 time_tracker INFO     setup documentation for AniPortrait
 2024-04-04 02:20:29 time_tracker INFO     improved the model loading script to load missing repository files
+2024-04-04 05:09:38 time_tracker INFO     Tried to evaluate AniPortrait project - unsuccessfully. Additional information in docs/AniPortrait.md file
+2024-04-04 05:10:49 time_tracker INFO     stop
