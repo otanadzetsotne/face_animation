@@ -3,10 +3,11 @@
 ## Documentation
 
 Documents and studies are stored in the */docs* folder.
-* */docs/respositories.md* - Research of existing solutions to this problem
+* `/docs/respositories.md` - Research of existing solutions to this problem
+* `/docs/{project}.md` - Research of concrete project. Setup, Evaluation, Results
 
 ## Tracker
 
-The script */time_tracker.py* is an easy-to-use time tracker that records progress in a log file and does not have a boring user interface.
+The script `/time_tracker.py` is an easy-to-use time tracker that records progress in a log file and does not have a boring user interface.
 
-Progress logs are written to */time_tracking.logs* by default.
+Progress logs are written to `/time_tracking.logs` by default.
