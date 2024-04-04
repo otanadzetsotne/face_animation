@@ -32,3 +32,8 @@
 2024-04-04 15:43:27 time_tracker INFO     AniPortrait - setup automation script
 2024-04-04 15:43:29 time_tracker INFO     stop
 2024-04-04 16:33:27 time_tracker INFO     Starting time_tracker
+2024-04-04 17:23:38 time_tracker INFO     setup SadTalker
+2024-04-04 17:23:39 time_tracker INFO     stop
+2024-04-04 19:11:39 time_tracker INFO     Starting time_tracker
+2024-04-04 20:24:46 time_tracker INFO     AniPortrait successfully running | studied the issues of the project and calculated the time required for work
+2024-04-04 20:38:22 time_tracker INFO     checked AniPortrait inference on cpu
